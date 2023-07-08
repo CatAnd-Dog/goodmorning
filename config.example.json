@@ -1,0 +1,24 @@
+{
+  "token": "123",
+  "tx_apikey": "123",
+  "user_data": {
+    "user_token": "123",
+    "user_name": "Oneperfect",
+    "user_location": "厦门",
+    "user_morning": false,    //是否需要早安鸡汤
+    "user_tips": true,          //是否需要生活小窍门
+    "user_health": true,       //是否需要健康小提示
+    "user_friend": false,       //是否需要朋友圈文案
+    "user_taic": false,         //是否需要经典台词
+    "user_flatter": false,      //是否需要彩虹屁
+    "user_love": false,         //是否需要卑微爱情的独白记录
+    "user_riddle": false,       //是否需要猜字谜
+    "user_brain": false,        //是否需要脑筋急转弯
+    "user_huangli": true,         //是否需要黄历
+    "user_english": true,         //是否需要英语格言
+    "user_songci": false,            //是否需要宋词
+    "user_qingshi": true         //是否需要情诗
+  }
+
+}
+
